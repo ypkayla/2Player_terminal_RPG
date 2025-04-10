@@ -23,24 +23,5 @@ Das Projekt ist in mehrere Module unterteilt, die jeweils für einen bestimmten 
 ## Anforderungen
 
 - Python 3.x
-- Keine externen Bibliotheken erforderlich
+- Keine externen Bibliotheken
 
-## Installation
-
-1. Clone dieses Repository:
-
-   ```bash
-   git clone https://github.com/dein-benutzername/fantasy-rpg-terminal-game.git
-
-
-
-### Erklärung des Inhalts:
-- **Projektbeschreibung**: Es wird ein Überblick über das Spiel gegeben, der die Hauptfunktionen und Merkmale des Spiels beschreibt.
-- **Struktur des Projekts**: Die Datei beschreibt die verschiedenen Module des Spiels und deren Funktion.
-- **Installation und Nutzung**: Schritt-für-Schritt-Anleitungen zur Installation und zum Starten des Spiels.
-- **Beispielcode**: Es wird ein einfaches Beispiel für die Verwendung der Hauptfunktionen des Spiels gegeben, um potenziellen Mitwirkenden und Benutzern zu zeigen, wie man mit dem Code arbeitet.
-- **Erweiterungsmöglichkeiten**: Vorschläge für zukünftige Features und Verbesserungen des Spiels.
-- **Lizenz**: Informationen zur Lizenzierung des Projekts (hier als Beispiel die MIT-Lizenz).
-- **Kontakt**: Eine Möglichkeit, den Entwickler zu erreichen, wenn man Fragen hat.
-
-Dieses Dokument sollte als gute Ausgangsbasis dienen, um das Projekt auf GitHub zu präsentieren und anderen zu helfen, den Code zu verstehen und beizutragen.
