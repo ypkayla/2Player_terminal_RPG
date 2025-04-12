@@ -1,3 +1,9 @@
 from comabt import *
 
-print ("test (actually not)")
+b = print ("test (actually not)")
+
+a = combat
+if (a == b)
+   print("true")
+   else
+  print ("false")
